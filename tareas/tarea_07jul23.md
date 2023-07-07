@@ -17,6 +17,7 @@
 13. Qué es `EmberJS`, para que se usa y de ejemplos de su `codificación`?
 14. Qué es `Ruby`, para que se usa y de ejemplos de su `codificación`?
 15. Qué es `Python`, para que se usa y de ejemplos de su `codificación`?
+16. Qué es `jQuery`, para que se usa y de ejemplos de su `codificación`?
 
 ## Práctica
 
