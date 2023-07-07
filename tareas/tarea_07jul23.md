@@ -18,6 +18,10 @@
 14. Qué es `Ruby`, para que se usa y de ejemplos de su `codificación`?
 15. Qué es `Python`, para que se usa y de ejemplos de su `codificación`?
 16. Qué es `jQuery`, para que se usa y de ejemplos de su `codificación`?
+17. Qué es `LESS`, para que se usa y de ejemplos de su `codificación`?
+18. Qué es `SASS`, para que se usa y de ejemplos de su `codificación`?
+19. Qué es `Ajax`, para que se usa y de ejemplos de su `codificación`?
+20. Qué es `Java`, para que se usa y de ejemplos de su `codificación`?
 
 ## Práctica
 
