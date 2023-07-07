@@ -9,7 +9,7 @@
 5. Qué es `PHP`, para que se usa y de ejemplos de su `codificación`?
 6. Qué es `ASP`, para que se usa y de ejemplos de su `codificación`?
 7. Qué es `blog` en `Web Development` y para qué sirve?, de ejemplos.
-8. Qué es `web developer` en `Web Development` y cuáles son sus principales tareas y responsabilidades?, de ejemplos.
+8. Qué es `.Net`, para que se usa y de ejemplos de su `codificación`?
 9. Qué es `Web 2.0` y para qué sirve?, de ejemplos.
 10. Qué es `Bootstrap`, para que se usa y de ejemplos de su `codificación`?
 11. Qué es `AngularJS`, para que se usa y de ejemplos de su `codificación`?
