@@ -2,7 +2,7 @@
 
 ## teórica
 
-1. Qué es una `clave SSH` en `git` y cómoconfigurarla en nuestros equipos?
+1. Qué es una `clave SSH` en `git` y cómo configurarla en nuestros equipos?
 2. Qué es una `librería` o `biblioteca` en programación?, de ejemplos.
 3. Qué es una `variable` en programación?, de ejemplos.
 4. Qué es la `identación` y porqué se usa en programación?
