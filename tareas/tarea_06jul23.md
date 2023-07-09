@@ -21,5 +21,5 @@
 ## Práctica
 
 1. Realice el ejercicio `A very big sum` del portal `HackerRank`.
-2. en el apartado práctica crear un archivo llamado `practica_3.c` donde debera hallar la solución al siguiente enunciado: 
+2. en el apartado práctica crear un archivo llamado `practica_3.c` donde debera hallar la solución al siguiente enunciado:
   4.2. `3. Hacer una función que diga si en una cadena hay sólo dígitos.`

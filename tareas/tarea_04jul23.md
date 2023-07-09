@@ -23,5 +23,5 @@
 1. Realice el ejercicio `Compare the triplets` del portal `HackerRank`.
 2. Instale en su computador personal los programas de `Visual Studio Code` y `Git`.
 3. Ejecute el comando en su CLI (Command Line interface) llamado `Git bash` el comando `git clone` de su repositorio llamado `Formulario_básico_<nombre>_03JUL23` y realice un formulario en lenguaje de etiquetado `HTML5` con 7 diferentes tipos de `inputs type`, si lo desea puede agregar estilos `CSS3`.
-4. en el apartado práctica crear un archivo llamado `practica_2.c` donde debera hallar la solución al siguiente enunciado: 
+4. en el apartado práctica crear un archivo llamado `practica_2.c` donde debera hallar la solución al siguiente enunciado:
   4.2. `2. Hacer una función que diga si un caracter está en una cadena.`

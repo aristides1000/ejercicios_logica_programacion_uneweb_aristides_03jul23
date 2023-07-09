@@ -26,8 +26,10 @@
 ## Práctica
 
 1. Realice el ejercicio `Diagonal Difference` del portal `HackerRank`.
+  1.1. Respuesta:
+  ![Diagonal_Difference_HackerRank](assets/tarea_07jul23.md/Diagonal_Difference_HackerRank.png)
 2. Realice los ejercicios del `1` al `69` de `Responsive Web Design`, del apartado `Learn HTML by Building a Cat Photo App` del portal `freeCodeCamp`.
 3. En el apartado práctica crear un archivo llamado `practica_4.c` donde debera hallar la solución al siguiente enunciado:
-  2.2. `4. Hacer una función ordene números enteros de un arreglo de forma ascendente.`
+  3.2. `4. Hacer una función ordene números enteros de un arreglo de forma ascendente.`
 4. En el apartado práctica crear un archivo llamado `practica_5.c` donde debera hallar la solución al siguiente enunciado:
   4.2. `5. Hacer una función que imprima los primeros n números primos.`
