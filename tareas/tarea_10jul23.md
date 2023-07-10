@@ -18,16 +18,7 @@
 14. Vea el video de [Las Matemáticas tienen una Terrible Falla](https://youtu.be/RRg38oNQ9vk) del canal [Veritasium en español](https://www.youtube.com/@VeritasiumES), y diga qué opina del video y las implicaciones históricas que han tenido las matemáticas en las ciencias de la computación.
 15. Lea el artículo llamado [3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack](https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html), y comente en clases qué le ha parecido el papel que cumplen las tres carreras de desarrollo web.
 16. Lea el artículo del [Facebook’s engineering department](https://www.facebook.com/notes/10158791462547200/), y comente en clases qué le ha parecido el artículo que popularizó el término Full stack developer en el año 2010.
-17. Qué es `LESS`, para que se usa y de ejemplos de su `codificación`?
-18. Qué es `SASS`, para que se usa y de ejemplos de su `codificación`?
-19. Qué es `Ajax`, para que se usa y de ejemplos de su `codificación`?
-20. Qué es `Java`, para que se usa y de ejemplos de su `codificación`?
 
 ## Práctica
 
-1. Realice el ejercicio `Diagonal Difference` del portal `HackerRank`.
-2. Realice los ejercicios del `1` al `69` de `Responsive Web Design`, del apartado `Learn HTML by Building a Cat Photo App` del portal `freeCodeCamp`.
-3. En el apartado práctica crear un archivo llamado `practica_4.c` donde debera hallar la solución al siguiente enunciado:
-  2.2. `4. Hacer una función ordene números enteros de un arreglo de forma ascendente.`
-4. En el apartado práctica crear un archivo llamado `practica_5.c` donde debera hallar la solución al siguiente enunciado:
-  4.2. `5. Hacer una función que imprima los primeros n números primos.`
+1. Realice el ejercicio `Plus Minus` del portal `HackerRank`.
