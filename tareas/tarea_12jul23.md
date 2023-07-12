@@ -23,3 +23,5 @@
 ## Práctica
 
 1. Realice el ejercicio `Staircase` del portal `HackerRank`.
+2. Crea una cuenta de usuario en el portal [LinkedIn](https://www.linkedin.com/).
+3. Crea una cuenta de usuario en el portal [Stack Overflow](https://stackoverflow.com/).
