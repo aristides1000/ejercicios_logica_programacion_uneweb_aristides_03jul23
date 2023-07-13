@@ -3,7 +3,7 @@
 ## teórica
 
 1. Qué es `Scala`, para que se usa y de ejemplos de su `codificación`?
-2. Qué es `Scala`, para que se usa y de ejemplos de su `codificación`?
+2. Qué es `Go`, para que se usa y de ejemplos de su `codificación`?
 3. Qué es `Clojure`, para que se usa y de ejemplos de su `codificación`?
 4. Qué es `Emacs` en `Web Development` y para qué sirve?, de ejemplos.
 5. Qué es `Vim`, en `web development` y para qué sirve?, de ejemplos.
