@@ -1,4 +1,4 @@
-# Tarea lunes HTML5 13 de julio
+# Tarea jueves HTML5 13 de julio
 
 ## teórica
 
