@@ -8,7 +8,6 @@
 4. Lea el artículo llamado [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/), y comente en clases qué opina sobre cómo hay que tomarse con calma los errores, los retos en programación y los demás aspectos del artículo.
 5. Lea el artículo llamado [Don’t Believe Anyone Who Tells You Learning To Code Is Easy](https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/), y comente en clases qué opina acerca del decir que comenta que "es fácil programar".
 6. Lea el artículo llamado [Deliberate Programming Practice](https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/), y comente en clases cómo se puede alcanzar el conocimiento en programación.
-7. Lea el artículo llamado [Deliberate Programming Practice](https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/), y comente en clases cómo se puede alcanzar el conocimiento en programación.
 8. Lea el artículo llamado [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html), y comente en clases cómo se pueden obtener conocimientos en 10 años como programador.
 9. Lea el artículo llamado [Some people have 10 years of experience. Others have 1 year of experience 10 times.](https://news.ycombinator.com/item?id=4627373), y comente en clases qué es repetir 1 año 10 veces.
 
