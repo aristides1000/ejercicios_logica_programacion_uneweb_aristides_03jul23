@@ -13,5 +13,5 @@
 
 1. Realice el ejercicio `Time Conversion` del portal `HackerRank`.
 2. agrega información al apartado de `about` de tu perfil de tu cuenta de usuario en el portal [LinkedIn](https://www.linkedin.com/), debe ser llenado en inglés.
-3. Termine los retos plasmados en  los ejercicios del `1` al `69` de `Responsive Web Design`, del apartado `Learn HTML by Building a Cat Photo App` del portal `freeCodeCamp`.
+3. Termine los retos plasmados en  los ejercicios del `1` al `91` de `Responsive Web Design`, del apartado `Learn Basic CSS by Building a Cafe Menu` del portal `freeCodeCamp`.
 4. Realizar los ejercicios del portal o aplicativo `Duolingo` de la `sección 2` del idioma `inglés`.
