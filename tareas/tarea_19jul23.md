@@ -28,6 +28,7 @@
 ## Práctica
 
 1. Realice el ejercicio `grading students` del portal `HackerRank`.
-2. agrega información al apartado de `about` de tu perfil de tu cuenta de usuario en el portal [LinkedIn](https://www.linkedin.com/), debe ser llenado en inglés.
-3. Termine los retos plasmados en los ejercicios del `1` al `91` de `Responsive Web Design`, del apartado `Learn Basic CSS by Building a Cafe Menu` del portal `freeCodeCamp`.
-4. Realizar los ejercicios del portal o aplicativo `Duolingo` de la `sección 3` del idioma `inglés`.
+2. Realice el ejercicio del apartado `Prepare > Java > Introduction > Welcome to Java!` del portal `HackerRank`.
+3. agrega información al apartado de `about` de tu perfil de tu cuenta de usuario en el portal [LinkedIn](https://www.linkedin.com/), debe ser llenado en inglés.
+4. Termine los retos plasmados en los ejercicios del `1` al `91` de `Responsive Web Design`, del apartado `Learn Basic CSS by Building a Cafe Menu` del portal `freeCodeCamp`.
+5. Realizar los ejercicios del portal o aplicativo `Duolingo` de la `sección 3` del idioma `inglés`.
