@@ -18,6 +18,10 @@
 ## Práctica
 
 1. Realice el ejercicio `Time Conversion` del portal `HackerRank`.
+  1.1. Solución en lenguaje c:
+  ![Solucion_c](assets/tarea_18jul23/solucion_c.png)
+  1.2. Solución en lenguaje php:
+  ![Solucion_php](assets/tarea_18jul23/solucion_php.png)
 2. agrega información al apartado de `about` de tu perfil de tu cuenta de usuario en el portal [LinkedIn](https://www.linkedin.com/), debe ser llenado en inglés.
 3. Termine los retos plasmados en  los ejercicios del `1` al `91` de `Responsive Web Design`, del apartado `Learn Basic CSS by Building a Cafe Menu` del portal `freeCodeCamp`.
 4. Realizar los ejercicios del portal o aplicativo `Duolingo` de la `sección 2` del idioma `inglés`.
