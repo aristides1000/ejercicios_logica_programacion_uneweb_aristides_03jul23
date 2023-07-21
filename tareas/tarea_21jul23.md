@@ -48,7 +48,7 @@ Los voluntarios de las comunidades de programación están aquí para ayudar. Pe
 
   2.1. [Don’t ask to ask, just ask](https://dontasktoask.com/) demuestra la importancia de preguntar sin preguntar.
   2.2. Lea sobre el ["XY Problem"](https://xyproblem.info/), que es un escollo común en el que caen tanto los programadores noveles como los experimentados a la hora de hacer preguntas.
-  2.3. Lee y marca como favorita nuestra guía comunitaria [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask). Es una gran referencia a la que acudir siempre que necesites pedir ayuda, y puede que te encuentres resolviendo tu propio problema al pensar en los puntos que se enumeran en el artículo.
+  2.3. Lee y marca como favorita nuestra guía comunitaria [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask). Es una gran referencia a la que acudir siempre que necesites pedir ayuda, y puede que te encuentres resolviendo tu propio problema al pensar en los puntos que se enumeran en el artículo (vea los sublinks de la publicación y comentelos en clases).
 
 ## Práctica
 
