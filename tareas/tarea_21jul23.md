@@ -46,11 +46,9 @@ Los voluntarios de las comunidades de programación están aquí para ayudar. Pe
 
 2. Lea los siguientes 3 artículos que se encuentran en los hipervínculos, luego de leerlos comente en clases de que tratan cada uno de los puntos:
 
-  2.1. [No preguntes por preguntar, sólo pregunta](https://dontasktoask.com/) demuestra la importancia de preguntar sin preguntar.
-
-3. [Mejora tu mecanografía con Keybr.com](https://www.keybr.com/). Una excelente alternativa es [typing.com](https://www.typing.com/). Utiliza estos entrenadores de teclado si ves que tu velocidad de escritura te está frenando. Se recomienda que dediques 5 minutos al día después de encender el ordenador.
-4. [¡Practica mecanografía con Monkeytype!](https://monkeytype.com/) Un sitio web de mecanografía minimalista y personalizable. Ponte a prueba en varios modos, sigue tus progresos y mejora tu velocidad de mecanografía. Tiene una gran comunidad y frecuentemente recibe nuevas características. A pesar de tener tantas funciones, la experiencia sigue siendo muy pulida.
-5. [Por qué procrastinan los procrastinadores](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) Aprende sobre el Mono de Gratificación Instantánea, el Tomador de Decisiones Racional, el Monstruo del Pánico y cómo navegar por el Campo de Juego Oscuro. [Breve vídeo introductorio del mismo autor](https://youtu.be/arj7oStGLkU).
+  2.1. [Don’t ask to ask, just ask](https://dontasktoask.com/) demuestra la importancia de preguntar sin preguntar.
+  2.2. Lea sobre el ["XY Problem"](https://xyproblem.info/), que es un escollo común en el que caen tanto los programadores noveles como los experimentados a la hora de hacer preguntas.
+  2.3. Lee y marca como favorita nuestra guía comunitaria [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask). Es una gran referencia a la que acudir siempre que necesites pedir ayuda, y puede que te encuentres resolviendo tu propio problema al pensar en los puntos que se enumeran en el artículo.
 
 ## Práctica
 
