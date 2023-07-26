@@ -49,11 +49,9 @@ int main()
 
   int longitud = sizeof(arr5) / sizeof(arr5[0]);
 
-  for (int i = 0; i < longitud; i++)
-  {
+  for (int i = 0; i < longitud; i++) {
     total_x += arr5[i];
-    if (arr5[i] < 1)
-    {
+    if (arr5[i] < 1) {
       min_value += arr5[i];
     }
   }
@@ -61,15 +59,14 @@ int main()
   x = total_x;
 
   /*---*/
-  for (int i = min_value; i < total_x; i++)
-  {
-    for (int j = 0; j < longitud; j++)
-    {
-      x += arr5[j];
-      printf("%d", x);
-      if (x < 1)
+  for (int i = min_value; i < total_x; i++) {
+    y = x;
+    for (int j = 0; j < longitud; j++) {
+      y += arr5[j];
+      if (y < 1)
       {
-        // printf("%d", x + 1);
+        printf("%d", x + 1);
+        return 0;
       }
     }
     x--;
