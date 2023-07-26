@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 /* int x1=1, x2=2, x3=3, x4=4, x5=5;
 
@@ -22,8 +21,7 @@ for (int i=0; i<longitud; i++){
   return longitud;
 } */
 
-int main()
-{
+int main() {
   /*
     Considere una matriz de enteros y un valor inicial positivo distinto de cero x. Se calcula una suma corrida sumando cada elemento de la matriz a x consecutivamente.
 
@@ -58,7 +56,6 @@ int main()
 
   x = total_x;
 
-  /*---*/
   for (int i = min_value; i < total_x; i++) {
     y = x;
     for (int j = 0; j < longitud; j++) {
