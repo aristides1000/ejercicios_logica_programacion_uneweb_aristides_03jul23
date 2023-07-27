@@ -12,7 +12,7 @@
 8. Lea el artículo [How to Use Google to Solve Your Programming Questions](https://codinginflow.com/google-programming-questions) y diga en clases que conclusiones puede tener del artículo.
 9. Lea el artículo [Discord search function](https://support.discordapp.com/hc/en-us/articles/115000468588-Using-Search) y diga en clases que conclusiones puede tener del artículo.
 10. realiza el apartado [Assignment](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#assignment) del artículo [Join the Odin Community](https://www.theodinproject.com/lessons/foundations-join-the-odin-community#assignment) y diga en clases que conclusiones puede tener del artículo.
-11. Lea el artículo [Discord search function](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) y diga en clases que conclusiones puede tener del artículo.
+11. Lea el artículo [Markdown Text 101 (Chat Formatting: Bold, Italic, Underline)](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
