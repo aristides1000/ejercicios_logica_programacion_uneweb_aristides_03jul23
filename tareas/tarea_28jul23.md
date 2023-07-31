@@ -8,6 +8,7 @@
 4. Lea el artículo [Linux](https://en.wikipedia.org/wiki/Linux) y diga en clases que conclusiones puede tener del artículo.
 5. Vea el video [What is a Virtual Machine (VM)? In 3 minutes - Virtual Machine Tutorial for Beginners](https://www.youtube.com/watch?v=yIVXjl4SwVo&ab_channel=VictorDozal) y diga en clases que conclusiones puede tener del video.
 6. Vea la página de [issues de Windows subsystem Linux (WSL)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines) y observe todos los inconvenientes que se han encontrado en esta versión, los cuales algunos no han sido solucionados.
+7. Vea el video [Cómo el cómputo cuántico rompe el internet, desde ahora.](https://youtu.be/xymGpIeNc88) y diga en clases que conclusiones puede tener del video.
 
 ## Práctica
 
