@@ -1,4 +1,4 @@
-# Tarea Jueves HTML5 27 de julio
+# Tarea Viernes HTML5 28 de julio
 
 ## teórica
 

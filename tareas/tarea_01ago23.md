@@ -1,11 +1,11 @@
-# Tarea Lunes HTML5 31 de julio
+# Tarea Martes HTML5 01 de julio
 
 ## teórica
 
-1. Lea el artículo [Installations](https://www.theodinproject.com/lessons/foundations-installations#intel-rst-rapid-storage-technology) y diga en clases que conclusiones puede tener del artículo.
-2. Lea el artículo [UbuntuFlavors](https://wiki.ubuntu.com/UbuntuFlavors) y diga en clases que conclusiones puede tener del artículo.
-3. Lea el artículo [Microsoft Visual C++ Redistributable latest supported downloads](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022) y diga en clases que conclusiones puede tener del artículo.
-4. Lea el artículo [Enabling Intel VT-x and AMD-V Virtualization Hardware Extensions in BIOS](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-troubleshooting-enabling_intel_vt_x_and_amd_v_virtualization_hardware_extensions_in_bios) y diga en clases que conclusiones puede tener del artículo.
+1. Lea el artículo [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors) y diga en clases que conclusiones puede tener del artículo.
+2. Vea el video [VSCode Tutorial For Beginners - Getting Started With VSCode](https://www.youtube.com/watch?v=ORrELERGIHs&t=103s&ab_channel=TechWithTim) y diga en clases que conclusiones puede tener del video.
+3. Lea el artículo [VSCode docs](https://code.visualstudio.com/docs) y diga en clases que conclusiones puede tener del artículo.
+4. Lea el artículo [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos) y diga en clases que conclusiones puede tener del artículo.
 5. Lea el artículo [Virtualization (VT-x/AMD-V) - Enabling virtualization on your computer for running 2N® Access Commander](https://2nwiki.2n.cz/pages/viewpage.action?pageId=75202968) y diga en clases que conclusiones puede tener del artículo.
 6. Lea el artículo [Increasing disk space in your Xubuntu VM](https://discord.com/channels/505093832157691914/690588860085960734/1015965403572351047) y diga en clases que conclusiones puede tener del artículo.
 7. Vea el video [How to switch from mouse to touchscreen in VirtualBox 6](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines) y diga en clases que conclusiones puede tener del video.
