@@ -1,20 +1,21 @@
-# Tarea Miercoles HTML5 09 de agosto
+# Tarea Martes HTML5 08 de agosto
 
 ## teórica
 
 1. Lea el artículo [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics) y diga en clases que conclusiones puede tener del artículo.
-2. Lea el artículo [GitHub’s Renaming Repository](GitHub’s Renaming Repository) y diga en clases que conclusiones puede tener del artículo.
-3. Lea el artículo [1.2 Getting Started - A Short History of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git) y diga en clases que conclusiones puede tener del artículo.
-4. Lea el artículo [1.3 Getting Started - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) y diga en clases que conclusiones puede tener del artículo.
-5. Lea el artículo [1.4 Getting Started - The Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line) y diga en clases que conclusiones puede tener del artículo.
-6. Vea el video [What is Git? Explained in 2 Minutes!](https://youtu.be/2ReR1YJrNOM) y diga en clases que conclusiones puede tener del video.
-7. Vea el video [GitHub for Noobs (1/4) – A Short History](https://www.youtube.com/watch?v=1h9_cB9mPT8&t=13s&ab_channel=DevTips) y diga en clases que conclusiones puede tener del video.
-8. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-introduction-to-git#assignment) y diga en clases que conclusiones puede tener del artículo.
-9. Responda las preguntas realizadas en el apartado [Knowledge check](https://www.theodinproject.com/lessons/foundations-introduction-to-git#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-10. Lea el artículo [What is Git and Github?](https://content.red-badger.com/resources/what-is-git-and-github) y diga en clases que conclusiones puede tener del artículo.
-11. Lea el artículo [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control) y diga en clases que conclusiones puede tener del artículo.
-12. Vea el video [What is Version Control? - Git Guides (2020)](https://www.youtube.com/watch?v=xQujH0ElTUg&ab_channel=Atlassian) y diga en clases que conclusiones puede tener del video.
-13. Lea el artículo [What is Git](https://www.atlassian.com/git/tutorials/what-is-git) y diga en clases que conclusiones puede tener del artículo.
+2. Lea el artículo [Renaming the default branch from master](https://github.com/github/renaming) y diga en clases que conclusiones puede tener del artículo.
+3. Lea el artículo [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh) y diga en clases que conclusiones puede tener del artículo.
+4. Lea el artículo [Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor)) y diga en clases que conclusiones puede tener del artículo.
+5. Realice las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-git-basics#assignment) y diga en clases que conclusiones puede tener del artículo.
+6. Lea el artículo [Note/Warning](https://www.theodinproject.com/lessons/foundations-git-basics#notewarning) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Cheatsheet](https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet) y diga en clases que conclusiones puede tener del artículo.
+8. Lea el artículo [Git best practices](https://www.theodinproject.com/lessons/foundations-git-basics#git-best-practices) y diga en clases que conclusiones puede tener del artículo.
+9. Lea el artículo [Changing the Git commit message editor](https://www.theodinproject.com/lessons/foundations-git-basics#changing-the-git-commit-message-editor) y diga en clases que conclusiones puede tener del artículo.
+10. Lea el artículo [Conclusion](https://www.theodinproject.com/lessons/foundations-git-basics#conclusion) y diga en clases que conclusiones puede tener del artículo.
+11. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-git-basics#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+12. Vea el video [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha) y diga en clases que conclusiones puede tener del video.
+13. Lea el artículo [Git - Reference](https://www.atlassian.com/git/tutorials/what-is-githttps://git-scm.com/docs) y diga en clases que conclusiones puede tener del artículo.
+14. Lea el artículo [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
