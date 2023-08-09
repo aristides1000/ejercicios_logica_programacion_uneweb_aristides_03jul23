@@ -14,7 +14,7 @@
 10. Lea el artículo [Conclusion](https://www.theodinproject.com/lessons/foundations-git-basics#conclusion) y diga en clases que conclusiones puede tener del artículo.
 11. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-git-basics#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 12. Vea el video [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha) y diga en clases que conclusiones puede tener del video.
-13. Lea el artículo [Git - Reference](https://www.atlassian.com/git/tutorials/what-is-githttps://git-scm.com/docs) y diga en clases que conclusiones puede tener del artículo.
+13. Lea el artículo [Git - Reference](https://git-scm.com/docs) y diga en clases que conclusiones puede tener del artículo.
 14. Lea el artículo [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
