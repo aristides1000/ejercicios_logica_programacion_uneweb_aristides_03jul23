@@ -2,20 +2,11 @@
 
 ## teórica
 
-1. Lea el artículo [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics) y diga en clases que conclusiones puede tener del artículo.
-2. Lea el artículo [Renaming the default branch from master](https://github.com/github/renaming) y diga en clases que conclusiones puede tener del artículo.
-3. Lea el artículo [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh) y diga en clases que conclusiones puede tener del artículo.
-4. Lea el artículo [Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor)) y diga en clases que conclusiones puede tener del artículo.
-5. Realice las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-git-basics#assignment) y diga en clases que conclusiones puede tener del artículo.
-6. Lea el artículo [Note/Warning](https://www.theodinproject.com/lessons/foundations-git-basics#notewarning) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Cheatsheet](https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet) y diga en clases que conclusiones puede tener del artículo.
-8. Lea el artículo [Git best practices](https://www.theodinproject.com/lessons/foundations-git-basics#git-best-practices) y diga en clases que conclusiones puede tener del artículo.
-9. Lea el artículo [Changing the Git commit message editor](https://www.theodinproject.com/lessons/foundations-git-basics#changing-the-git-commit-message-editor) y diga en clases que conclusiones puede tener del artículo.
-10. Lea el artículo [Conclusion](https://www.theodinproject.com/lessons/foundations-git-basics#conclusion) y diga en clases que conclusiones puede tener del artículo.
-11. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-git-basics#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-12. Vea el video [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha) y diga en clases que conclusiones puede tener del video.
-13. Lea el artículo [Git - Reference](https://git-scm.com/docs) y diga en clases que conclusiones puede tener del artículo.
-14. Lea el artículo [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github) y diga en clases que conclusiones puede tener del artículo.
+1. Lea el artículo [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css) y diga en clases que conclusiones puede tener del artículo.
+2. Lea el artículo [HTML VS. CSS VS. JAVASCRIPT: WHAT’S THE DIFFERENCE?](https://brytdesigns.com/html-css-javascript-whats-the-difference) y diga en clases que conclusiones puede tener del artículo.
+3. Responde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+4. Lea el artículo [Learn Web Development Basics – HTML, CSS, and JavaScript Explained for Beginners](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/) y diga en clases que conclusiones puede tener del artículo.
+5. Lea el artículo [DevDocs.io](https://devdocs.io/) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
