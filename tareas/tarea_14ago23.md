@@ -8,20 +8,16 @@
 4. Lea el artículo [The DOCTYPE](https://www.theodinproject.com/lessons/foundations-html-boilerplate#the-doctype) y diga en clases que conclusiones puede tener del artículo.
 5. Lea el artículo [HTML element](https://www.theodinproject.com/lessons/foundations-html-boilerplate#html-element) y diga en clases que conclusiones puede tener del artículo.
 6. Lea el artículo [Head element](https://www.theodinproject.com/lessons/foundations-html-boilerplate#head-element) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Head element](https://www.theodinproject.com/lessons/foundations-html-boilerplate#head-element) y diga en clases que conclusiones puede tener del artículo.
-8. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
 7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+8. Lea el artículo [Viewing HTML files in the browser](https://www.theodinproject.com/lessons/foundations-html-boilerplate#viewing-html-files-in-the-browser) y diga en clases que conclusiones puede tener del artículo.
+9. Lea el artículo [VSCode shortcut](https://www.theodinproject.com/lessons/foundations-html-boilerplate#vscode-shortcut) y diga en clases que conclusiones puede tener del artículo.
+10. Lea el video [Building Your First Web Page video](https://youtu.be/V8UAEoOvqFg?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&t=93) y diga en clases que conclusiones puede tener del video.
+11. Realice las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-html-boilerplate#assignment) y diga en clases que conclusiones puede tener del artículo.
+12. Lea el artículo [HTML Encoding Reference for Beginners: Understanding Character Sets](https://www.positioniseverything.net/html-encoding/) y diga en clases que conclusiones puede tener del artículo.
 https://www.theodinproject.com/lessons/foundations-html-boilerplate#body-element
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-https://www.theodinproject.com/lessons/foundations-html-boilerplate#body-element
-7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
-8. aResponde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-elements-and-tags#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-9. Lea el artíc-ulo y vea el video de [DON’T FEAR the INTERNET](http://www.dontfeartheinternet.com/02-html/) y diga en clases que conclusiones puede tener del artículo.
+13. Lea el artículo [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) y diga en clases que conclusiones puede tener del artículo.
+14. Lea el artículo [lang](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang) y diga en clases qué conclusiones puede tener del artículo.
+15. aResponde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-html-boilerplate#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
