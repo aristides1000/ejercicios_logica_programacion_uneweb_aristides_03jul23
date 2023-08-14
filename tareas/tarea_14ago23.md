@@ -4,9 +4,24 @@
 
 1. Lea el artículo [HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate) y diga en clases que conclusiones puede tener del artículo.
 2. Vea el video [HTML and CSS for Beginners Part 2: Building your first web page!](https://www.youtube.com/watch?v=V8UAEoOvqFg&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&t=93s&ab_channel=KevinPowell) y diga en clases que conclusiones puede tener del video.
-3. Vea los videos [Watch Kevin Powell’s Introduction to HTML Video](https://www.youtube.com/watch?v=LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&ab_channel=KevinPowell) y diga en clases que conclusiones puede tener del artículo.
-4. Responde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-elements-and-tags#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-5. Lea el artículo y vea el video de [DON’T FEAR the INTERNET](http://www.dontfeartheinternet.com/02-html/) y diga en clases que conclusiones puede tener del artículo.
+3. Lea el artículo [Creating an HTML file](https://www.theodinproject.com/lessons/foundations-html-boilerplate#creating-an-html-file) y diga en clases que conclusiones puede tener del artículo.
+4. Lea el artículo [The DOCTYPE](https://www.theodinproject.com/lessons/foundations-html-boilerplate#the-doctype) y diga en clases que conclusiones puede tener del artículo.
+5. Lea el artículo [HTML element](https://www.theodinproject.com/lessons/foundations-html-boilerplate#html-element) y diga en clases que conclusiones puede tener del artículo.
+6. Lea el artículo [Head element](https://www.theodinproject.com/lessons/foundations-html-boilerplate#head-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Head element](https://www.theodinproject.com/lessons/foundations-html-boilerplate#head-element) y diga en clases que conclusiones puede tener del artículo.
+8. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+https://www.theodinproject.com/lessons/foundations-html-boilerplate#body-element
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+https://www.theodinproject.com/lessons/foundations-html-boilerplate#body-element
+7. Lea el artículo [Body element](https://www.¿.com/lessons/foundations-html-boilerplate#body-element) y diga en clases que conclusiones puede tener del artículo.
+8. aResponde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-elements-and-tags#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+9. Lea el artíc-ulo y vea el video de [DON’T FEAR the INTERNET](http://www.dontfeartheinternet.com/02-html/) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
