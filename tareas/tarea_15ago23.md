@@ -17,6 +17,7 @@
 13. Vea el video [Accessibility, Back to the Future | Bruce Lawson | Monki Gras 2019](https://m.youtube.com/watch?v=T2CjuAwrAq8&feature=youtu.be) y diga en clases que conclusiones puede tener del video.
 14. Lea el artículo [When to Use <strong>, <b>, <em>, and <i> Tags in Your Markup](https://medium.com/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb) y diga en clases que conclusiones puede tener del artículo.
 15. Lea el artículo [HTML Text Formatting](https://www.w3schools.com/html/html_formatting.asp) y diga en clases que conclusiones puede tener del artículo.
+16. Vea el video [La COMPETENCIA de ROBOTS en LABERINTOS más rápida del MUNDO](https://youtu.be/IDiuQNmKOdo) y diga en clases que conclusiones puede tener del video.
 
 ## Práctica
 
