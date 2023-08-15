@@ -2,22 +2,24 @@
 
 ## teórica
 
-1. Lea el artículo [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text) y diga en clases que conclusiones puede tener del artículo.
-2. Lea el artículo [Paragraphs](https://www.theodinproject.com/lessons/foundations-working-with-text#paragraphs) y diga en clases que conclusiones puede tener del artículo.
-3. Lea el artículo [Headings](https://www.theodinproject.com/lessons/foundations-working-with-text#headings) y diga en clases que conclusiones puede tener del artículo.
-4. Lea el artículo [Strong element](https://www.theodinproject.com/lessons/foundations-working-with-text#strong-element) y diga en clases que conclusiones puede tener del artículo.
-5. Lea el artículo [Em element](https://www.theodinproject.com/lessons/foundations-working-with-text#em-element) y diga en clases que conclusiones puede tener del artículo.
-6. Lea el artículo [Nesting and indentation](https://www.theodinproject.com/lessons/foundations-working-with-text#nesting-and-indentation) y diga en clases que conclusiones puede tener del artículo.
-7. Lea el artículo [HTML comments](https://www.theodinproject.com/lessons/foundations-working-with-text#html-comments) y diga en clases que conclusiones puede tener del artículo.
-8. Vea el video [HTML Paragraph and Headings Video](https://www.youtube.com/watch?v=yqcd-XkxZNM&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=3) y diga en clases que conclusiones puede tener del video.
-9. Vea el video [HTML Bold and Italic Text Video](https://www.youtube.com/watch?v=gW6cBZLUk6M&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=4) y diga en clases que conclusiones puede tener del video.
-10. Lea el artículo [Lorem ipsum](https://youtu.be/V8UAEoOvqFg?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&t=93) y diga en clases que conclusiones puede tener del artículo.
-11. Realice las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-working-with-text#assignment) y diga en clases que conclusiones puede tener del artículo.
-12. Responde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-working-with-text#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-13. Vea el video [Accessibility, Back to the Future | Bruce Lawson | Monki Gras 2019](https://m.youtube.com/watch?v=T2CjuAwrAq8&feature=youtu.be) y diga en clases que conclusiones puede tener del video.
-14. Lea el artículo [When to Use <strong>, <b>, <em>, and <i> Tags in Your Markup](https://medium.com/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb) y diga en clases que conclusiones puede tener del artículo.
-15. Lea el artículo [HTML Text Formatting](https://www.w3schools.com/html/html_formatting.asp) y diga en clases que conclusiones puede tener del artículo.
-16. Vea el video [La COMPETENCIA de ROBOTS en LABERINTOS más rápida del MUNDO](https://youtu.be/IDiuQNmKOdo) y diga en clases que conclusiones puede tener del video.
+1. Lea el artículo [Lists](https://www.theodinproject.com/lessons/foundations-lists) y diga en clases que conclusiones puede tener del artículo.
+2. Lea el artículo [Unordered lists](https://www.theodinproject.com/lessons/foundations-lists#unordered-lists) y diga en clases que conclusiones puede tener del artículo.
+3. Lea el artículo [Ordered lists](https://www.theodinproject.com/lessons/foundations-lists#ordered-lists) y diga en clases que conclusiones puede tener del artículo.
+4. Realice las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-lists#assignment) y diga en clases que conclusiones puede tener del artículo.
+5. Responde las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-lists#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+6. Lea el artículo [<ul>: The Unordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) y diga en clases que conclusiones puede tener del artículo.
+7. Lea el artículo [<ol>: The Ordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) y diga en clases que conclusiones puede tener del artículo.
+8. Lea el artículo [HTML Paragraph and Headings Video](https://www.youtube.com/watch?v=yqcd-XkxZNM&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=3) y diga en clases que conclusiones puede tener del artículo.
+9. Lea el artículo [Creating Lists](https://learn.shayhowe.com/html-css/creating-lists/) y diga en clases que conclusiones puede tener del artículo.
+10. Lea el artículo [Unordered Lists](https://learn.shayhowe.com/html-css/creating-lists/#unorderd-lists) y diga en clases que conclusiones puede tener del artículo.
+11. Lea el artículo [Ordered Lists](https://learn.shayhowe.com/html-css/creating-lists/#ordered-lists) y diga en clases que conclusiones puede tener del artículo.
+12. Lea el artículo [Ordered Lists](https://learn.shayhowe.com/html-css/creating-lists/#ordered-lists) y diga en clases que conclusiones puede tener del artículo.
+13. Lea el artículo [Description Lists](https://learn.shayhowe.com/html-css/creating-lists/#description-lists) y diga en clases que conclusiones puede tener del artículo.
+14. Lea el artículo [Nesting Lists](https://learn.shayhowe.com/html-css/creating-lists/#nested-lists) y diga en clases que conclusiones puede tener del artículo.
+15. Lea el artículo [List Item Styling](https://learn.shayhowe.com/html-css/creating-lists/#list-item-styling) y diga en clases que conclusiones puede tener del artículo.
+16. Lea el artículo [Horizontally Displaying List](https://learn.shayhowe.com/html-css/creating-lists/#horizontally-displaying-list) y diga en clases que conclusiones puede tener del artículo.
+17. Lea el artículo [In Practice](https://learn.shayhowe.com/html-css/creating-lists/#practice-1) y diga en clases que conclusiones puede tener del artículo.
+18. Lea el artículo [Summary](https://learn.shayhowe.com/html-css/creating-lists/#summary) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
