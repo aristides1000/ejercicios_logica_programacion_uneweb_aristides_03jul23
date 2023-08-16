@@ -20,6 +20,7 @@
 16. Lea el artículo [Horizontally Displaying List](https://learn.shayhowe.com/html-css/creating-lists/#horizontally-displaying-list) y diga en clases que conclusiones puede tener del artículo.
 17. Lea el artículo [In Practice](https://learn.shayhowe.com/html-css/creating-lists/#practice-1) y diga en clases que conclusiones puede tener del artículo.
 18. Lea el artículo [Summary](https://learn.shayhowe.com/html-css/creating-lists/#summary) y diga en clases que conclusiones puede tener del artículo.
+19. Vea el video [Por Qué Las Primeras Computadoras Estaban Hechas De Bombillas 💡https://youtu.be/LvhhcsLrHDw) y diga en clases que conclusiones puede tener del video.
 
 ## Práctica
 
