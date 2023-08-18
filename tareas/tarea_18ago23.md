@@ -1,4 +1,4 @@
-# Tarea Jueves HTML5 17 de agosto
+# Tarea Viernes HTML5 18 de agosto
 
 ## teórica
 
