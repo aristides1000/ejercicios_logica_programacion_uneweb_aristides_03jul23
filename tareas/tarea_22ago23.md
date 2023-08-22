@@ -7,12 +7,9 @@
 3. Lea el artículo [CSS Fonts](https://www.w3schools.com/Css/css_font.asp) y diga en clases que conclusiones puede tener del artículo.
 4. Lea el artículo [CSS Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php) y diga en clases que conclusiones puede tener del artículo.
 5. Lea el artículo [CSS Legal Color Values](https://www.w3schools.com/cssref/css_colors_legal.php) y diga en clases que conclusiones puede tener del artículo.
-6. Lea el artículo [Adding CSS to HTML](https://www.theodinproject.com/lessons/foundations-intro-to-css#adding-css-to-html) y diga en clases que conclusiones puede tener del artículo.
-7. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-intro-to-css#assignment) y diga en clases que conclusiones puede tener del artículo.
-8. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-intro-to-css#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-9. Lea el artículo [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) y diga en clases que conclusiones puede tener del artículo.
-10. Lea el artículo [An interactive Scrim](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) y diga en clases que conclusiones puede tener del artículo.
-11. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-intro-to-css#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+6. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-intro-to-css#assignment) y diga en clases que conclusiones puede tener del artículo.
+7. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-the-cascade#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+8. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-the-cascade#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
