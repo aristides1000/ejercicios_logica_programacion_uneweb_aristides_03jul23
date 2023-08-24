@@ -8,7 +8,7 @@
 4. Lea el artículo [Testing styles in the inspector](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css#testing-styles-in-the-inspector) y diga en clases que conclusiones puede tener del artículo.
 5. Realiza las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css#assignment) y diga en clases que conclusiones puede tener del artículo.
 6. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-7. Lea los artículos [Additional resources](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+7. Lea los artículos [Additional resources](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
