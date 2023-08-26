@@ -2,8 +2,6 @@
 
 ## teórica
 
-
-
 1. Lea el artículo [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model) y diga en clases que conclusiones puede tener del artículo.
 2. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-the-box-model#introduction) y diga en clases que conclusiones puede tener del artículo.
 3. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-the-box-model#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
