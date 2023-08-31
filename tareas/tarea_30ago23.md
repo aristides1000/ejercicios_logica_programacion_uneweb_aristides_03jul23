@@ -1,4 +1,4 @@
-# Tarea Lunes 30 de agosto
+# Tarea Miercoles 30 de agosto
 
 ## teórica
 
