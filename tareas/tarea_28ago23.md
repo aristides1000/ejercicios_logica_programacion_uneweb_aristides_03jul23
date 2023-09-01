@@ -2,7 +2,7 @@
 
 ## teórica
 
-1. Lea el artículo [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-block-and-inline) y diga en clases que conclusiones puede tener del artículo.
+1. Lea el artículo [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox) y diga en clases que conclusiones puede tener del artículo.
 2. Lea el artículo [History of CSS Grid and CSS Flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2) y diga en clases que conclusiones puede tener del artículo.
 3. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#introduction) y diga en clases que conclusiones puede tener del artículo.
 4. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
