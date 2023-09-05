@@ -1,4 +1,4 @@
-# Tarea Jueves 31 de agosto
+# Tarea Martes 05 de septiembre
 
 ## teórica
 
