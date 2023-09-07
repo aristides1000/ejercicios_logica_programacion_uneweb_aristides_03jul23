@@ -1,11 +1,11 @@
-# Tarea Miércoles 06 de septiembre
+# Tarea Jueves 07 de septiembre
 
 ## teórica
 
-1. Lea el artículo [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools) y diga en clases que conclusiones puede tener del artículo.
-2. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#introduction) y diga en clases que conclusiones puede tener del artículo.
-3. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
-4. Lea el artículo [Opening DevTools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools#opening-devtools) y diga en clases que conclusiones puede tener del artículo.
+1. Lea el artículo [Fundamentals Part 3](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3) y diga en clases que conclusiones puede tener del artículo.
+2. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3#introduction) y diga en clases que conclusiones puede tener del artículo.
+3. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
+4. Lea el artículo [Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions) y diga en clases que conclusiones puede tener del artículo.
 5. Lea el artículo [Chrome DevTools](https://developer.chrome.com/docs/devtools/) y diga en clases que conclusiones puede tener del artículo.
 6. Lea el artículo [View and change CSS](https://developer.chrome.com/docs/devtools/css/) y diga en clases que conclusiones puede tener del artículo.
 7. Vea el video [Chrome 100 - What’s New in DevTools](https://www.youtube.com/watch?v=DAD72grzDDc&ab_channel=GoogleChromeDevelopers) y diga en clases que conclusiones puede tener del video.
