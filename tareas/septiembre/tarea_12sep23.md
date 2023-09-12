@@ -2,23 +2,21 @@
 
 ## teórica
 
-1. Lea el artículo [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors) y diga en clases que conclusiones puede tener del artículo.
-2. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-understanding-errors#introduction) y diga en clases que conclusiones puede tener del artículo.
-3. Lea el artículo [Lesson overview](https://www.theodinproject.com/lessons/foundations-understanding-errors#lesson-overview) y diga en clases que conclusiones puede tener del artículo.
-4. Lea el artículo [SyntaxError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError) y diga en clases que conclusiones puede tener del artículo.
-5. Lea el artículo [ReferenceError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError) y diga en clases que conclusiones puede tener del artículo.
-6. Lea el artículo [TypeError](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError) y diga en clases que conclusiones puede tener del artículo.
-7. Vea el video [Debugging JavaScript - Chrome DevTools 101](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) y diga en clases que conclusiones puede tener del video.
-8. Lea el artículo [Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/) y diga en clases que conclusiones puede tener del artículo.
-9. Lea el artículo [Window Console Object](https://www.w3schools.com/jsref/obj_console.asp) y diga en clases que conclusiones puede tener del artículo.
-10. Lea el artículo [The anatomy of an error](https://www.theodinproject.com/lessons/foundations-understanding-errors#the-anatomy-of-an-error) y diga en clases que conclusiones puede tener del artículo.
-11. Lea el artículo [Tips for resolving errors](https://www.theodinproject.com/lessons/foundations-understanding-errors#tips-for-resolving-errors) y diga en clases que conclusiones puede tener del artículo.
-12. Lea el artículo [Errors vs. warnings](https://www.theodinproject.com/lessons/foundations-understanding-errors#errors-vs-warnings) y diga en clases que conclusiones puede tener del artículo.
-13. Lea el artículo [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong) y diga en clases que conclusiones puede tener del artículo.
-14. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-understanding-errors#assignments) y diga en clases que conclusiones puede tener del artículo.
-15. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-understanding-errors#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-16. Lea el artículo [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors) y diga en clases que conclusiones puede tener del artículo.
-17. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-understanding-errors#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+1. Lea el artículo [Project: Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) y diga en clases que conclusiones puede tener del artículo.
+2. Lea el artículo [Rock paper scissors](https://en.m.wikipedia.org/wiki/Rock_paper_scissors) y diga en clases que conclusiones puede tener del artículo.
+3. Lea el artículo [How to Play Rock, Paper, Scissors: A Simple Guide](https://www.wikihow.com/Play-Rock,-Paper,-Scissors) y diga en clases que conclusiones puede tener del artículo.
+4. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#introduction) y diga en clases que conclusiones puede tener del artículo.
+5. Lea el artículo [Quick exercises before starting](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#quick-exercises-before-starting) y diga en clases que conclusiones puede tener del artículo.
+6. Lea el artículo [Window: prompt() method](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt) y diga en clases que conclusiones puede tener del artículo.
+7. Vea el video [Learning Code](https://dev.to/theodinproject/learning-code-f56) y diga en clases que conclusiones puede tener del video.
+8. Lea el artículo [Strategically building your portfolio](https://dev.to/theodinproject/strategically-building-your-portfolio-1km4) y diga en clases que conclusiones puede tener del artículo.
+9. Lea el artículo [A TOP Strategy Guide](https://dev.to/theodinproject/becoming-a-top-success-story-mindset-3dp2) y diga en clases que conclusiones puede tener del artículo.
+10. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#assignment) y diga en clases que conclusiones puede tener del artículo.
+11. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-understanding-errors#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+12. Lea el artículo [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors) y diga en clases que conclusiones puede tener del artículo.
+13. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-understanding-errors#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+14. Realice todas las actividades de [Project: Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#assignment) y diga en clases que conclusiones puede tener del artículo.
+15. Agrega tu solución en el apartado solutions del artículo [Project: Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#assignment) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
