@@ -8,17 +8,20 @@
 4. Lea el artículo [What is clean code?](https://www.theodinproject.com/lessons/foundations-clean-code#what-is-clean-code) y diga en clases que conclusiones puede tener del artículo.
 5. Lea el artículo [Naming functions and variables](https://www.theodinproject.com/lessons/foundations-clean-code#naming-functions-and-variables) y diga en clases que conclusiones puede tener del artículo.
 6. Lea el artículo [Use searchable and immediately understandable names](https://www.theodinproject.com/lessons/foundations-clean-code#use-searchable-and-immediately-understandable-names) y diga en clases que conclusiones puede tener del artículo.
-7. Vea el video [Debugging JavaScript - Chrome DevTools 101](https://www.youtube.com/watch?v=H0XScE08hy8&ab_channel=GoogleChromeDevelopers) y diga en clases que conclusiones puede tener del video.
-8. Lea el artículo [Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/) y diga en clases que conclusiones puede tener del artículo.
-9. Lea el artículo [Window Console Object](https://www.w3schools.com/jsref/obj_console.asp) y diga en clases que conclusiones puede tener del artículo.
-10. Lea el artículo [The anatomy of an error](https://www.theodinproject.com/lessons/foundations-understanding-errors#the-anatomy-of-an-error) y diga en clases que conclusiones puede tener del artículo.
-11. Lea el artículo [Tips for resolving errors](https://www.theodinproject.com/lessons/foundations-understanding-errors#tips-for-resolving-errors) y diga en clases que conclusiones puede tener del artículo.
-12. Lea el artículo [Errors vs. warnings](https://www.theodinproject.com/lessons/foundations-understanding-errors#errors-vs-warnings) y diga en clases que conclusiones puede tener del artículo.
-13. Lea el artículo [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong) y diga en clases que conclusiones puede tener del artículo.
-14. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-understanding-errors#assignments) y diga en clases que conclusiones puede tener del artículo.
-15. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-understanding-errors#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-16. Lea el artículo [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors) y diga en clases que conclusiones puede tener del artículo.
-17. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-understanding-errors#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+7. Vea el video [Tabs versus Spaces](https://m.youtube.com/watch?v=SsoOG6ZeyUI) y diga en clases que conclusiones puede tener del video.
+8. Lea el artículo [Indentation and line length](https://www.theodinproject.com/lessons/foundations-clean-code#indentation-and-line-length) y diga en clases que conclusiones puede tener del artículo.
+9. Lea el artículo [Semicolons](https://www.theodinproject.com/lessons/foundations-clean-code#semicolons) y diga en clases que conclusiones puede tener del artículo.
+10. Lea el artículo [About comments](https://www.theodinproject.com/lessons/foundations-clean-code#about-comments) y diga en clases que conclusiones puede tener del artículo.
+11. Lea el artículo [In conclusion](https://www.theodinproject.com/lessons/foundations-clean-code#in-conclusion) y diga en clases que conclusiones puede tener del artículo.
+12. Lea el artículo [10 Principles for Keeping Your Programming Code Clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/) y diga en clases que conclusiones puede tener del artículo.
+13. Lea el artículo [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) y diga en clases que conclusiones puede tener del artículo.
+14. Lea el artículo [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/) y diga en clases que conclusiones puede tener del artículo.
+15. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-clean-code#assignment) y diga en clases que conclusiones puede tener del artículo.
+16. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-clean-code#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
+17. Lea el artículo [CodeAsDocumentation](https://www.martinfowler.com/bliki/CodeAsDocumentation.html) y diga en clases que conclusiones puede tener del artículo.
+18. Lea el artículo [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript) y diga en clases que conclusiones puede tener del artículo.
+19. Lea el artículo [Beautiful JavaScript: Easily Create Chainable (Cascading) Methods for Expressiveness](https://web.archive.org/web/20190211152543/https://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/) y diga en clases que conclusiones puede tener del artículo.
+20. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-clean-code#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
