@@ -24,7 +24,15 @@
 20. Vea el video [JavaScript Event Capture, Propagation and Bubbling](https://www.youtube.com/watch?v=F1anRyL37lE&ab_channel=WesBos) y diga en clases que conclusiones puede tener del video.
 21. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#assignment) y diga en clases que conclusiones puede tener del artículo.
 22. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
-23. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#additional-resources) y diga en clases que conclusiones puede tener del artículo.
+23. Lea el artículo [The Document Object Model](https://eloquentjavascript.net/14_dom.html) y diga en clases que conclusiones puede tener del artículo.
+24. Lea el artículo [Handling Events](https://eloquentjavascript.net/15_event.html) y diga en clases que conclusiones puede tener del artículo.
+25. Lea el artículo [DOM Enlightenment](https://domenlightenment.com/) y diga en clases que conclusiones puede tener del artículo.
+26. Lea el artículo [Plain JavaScript](https://plainjs.com/javascript/) y diga en clases que conclusiones puede tener del artículo.
+27. Lea el artículo [The HTML DOM (Document Object Model)](https://www.w3schools.com/js/js_htmldom.asp) y diga en clases que conclusiones puede tener del artículo.
+28. Vea los videos [JS DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s) y diga en clases que conclusiones puede tener del videos.
+29. Lea el artículo [Understanding the DOM — Document Object Model](Understanding the DOM — Document Object Model) y diga en clases que conclusiones puede tener del artículo. 
+30. Lea el artículo [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) y diga en clases que conclusiones puede tener del artículo.
+31. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
 
